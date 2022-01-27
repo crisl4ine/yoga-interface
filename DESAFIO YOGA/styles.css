@@ -103,12 +103,13 @@ strong{
   margin-top: 30px;
 }
 
+.img-link{
+  
+  margin: 0 10px;
+}
+
 .container{
 text-align: center;
 margin: 18px auto 80px auto;
 }
 
-.img-link{
-  
-  margin: 0 10px;
-}
